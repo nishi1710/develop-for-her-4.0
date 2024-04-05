@@ -1,0 +1,117 @@
+#background
+{
+    background-image: url("sign.png");
+    background-repeat: no-repeat;
+    width: 100%;
+    top: 0px;
+    background-size: cover;
+    background-position:center;
+    height: 900px; 
+}
+
+#shadow{
+    position: absolute;
+    border-radius: 50px;
+    background: rgba(255, 255, 255, 0.50);
+    width: 1000px;
+    height: 500px;
+    top: 120px;
+    left: 150px;
+}
+#header
+{
+    position: absolute;
+    top:150px;
+    left:500px;
+    font-size: 40px;
+    color: black;
+    text-align: center;
+}
+#username-sign
+{
+    position: absolute;
+    top:250px;
+    left:300px;
+    font-size: 30px;
+    color: black;
+    text-align: center;
+}
+#username-sign-box
+{
+    position: absolute;
+    top:325px;
+    left:300px;  
+    color: black;
+    text-align: center;
+}
+#password-sign
+{
+    position: absolute;
+    top:400px;
+    left:300px;
+    font-size: 30px;
+    color: black;
+    text-align: center;
+}
+#password-sign-box
+{
+    position: absolute;
+    top:450px;
+    left:300px;  
+    color: black;
+    text-align: center;
+}
+#age
+{
+    position: absolute;
+    top:250px;
+    left:800px;
+    font-size: 30px;
+    color: black;
+    text-align: center;
+}
+#age-box
+{
+    position: absolute;
+    top:325px;
+    left:800px;  
+    color: black;
+    text-align: center;
+}
+#phoneno
+{
+    position: absolute;
+    top:400px;
+    left:800px;
+    font-size: 30px;
+    color: black;
+    text-align: center;
+}
+#phoneno-box
+{
+    position: absolute;
+    top:450px;
+    left:800px;  
+    color: black;
+    text-align: center;
+}
+
+#signin
+{
+    position: absolute;
+    right: 540px;
+    bottom: 60px;
+}
+
+#signin-btn
+{
+    background-color: #8d66c7;
+    width: 170px;
+    height: 40px;
+    font-size: 25px;
+    font-style: normal;
+    color: white;
+    font-weight: 600;
+    line-height: normal;  
+    border-radius: 50px; 
+}

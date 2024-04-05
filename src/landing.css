@@ -1,0 +1,49 @@
+#background-land{
+    background-image: url("land_image.png");
+    background-repeat: no-repeat;
+    /* top: 200px; */
+    width: 100%;
+    top: 0px;
+    background-size: cover;
+    background-position: center;
+    height: 630px;
+}
+
+#side-image
+{
+    position: absolute;
+    top: 130px;
+    left: 100px;
+}
+
+#main-text
+{
+    position: absolute;
+    right: 100px;
+    top: 200px;
+    color: #000;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+#login-button
+{
+    position: absolute;
+    bottom: 99px;
+    left: 660px;
+
+}
+
+#login
+{
+    border-color: aliceblue;
+    width: 200px;
+    height: 50px;
+    border-radius: 50px;
+    background: rgba(97, 87, 240, 0.61);
+    font-weight: 700;
+    color: white;
+}

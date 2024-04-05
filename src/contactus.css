@@ -1,0 +1,128 @@
+#cubackground
+{
+    background-image: url("contactusbg.png");
+    background-repeat: no-repeat;
+    width: 100%;
+    top: 0px;
+    background-size: cover;
+    background-position:center;
+    height: 1100px; 
+}
+#img-btn
+{
+    position: absolute;
+}
+#conusimg
+{
+    
+    background-repeat: no-repeat;
+    width: 20%;
+    background-size: cover;
+    background-position:center;
+    height: 300px; 
+    position: absolute;
+    left: 700px;
+    top: 200px;
+}
+
+#shadow-contact{
+    position: absolute;
+    border-radius: 50px;
+    background: rgba(255, 255, 255, 0.50);
+    width: 550px;
+    height: 700px;
+    top: 120px;
+    left: 100px;
+
+}
+#conus
+{
+    position: absolute;
+    top:150px;
+    left:250px;
+    font-size: 30px;
+    color: black;
+    text-align: center;
+}
+#name
+{
+    position: absolute;
+    top:250px;
+    left:150px;
+    font-size: 30px;
+    color: black;
+    text-align: center;
+}
+#name-box
+{
+    position: absolute;
+    top:250px;
+    left:285px;
+    height: 200px;
+    font-size: 30px;
+    color: black;
+    text-align: center;
+    font-weight: 100;
+}
+#email-con
+{
+    position: absolute;
+    top:350px;
+    left:150px;
+    font-size: 30px;
+    color: black;
+    text-align: center;
+}
+#email-box-cont
+{
+    position: absolute;
+    top:150px;
+    left:285px;
+    height: 300px;
+    font-size: 30px;
+    color: black;
+    text-align: center;
+    font-weight: 100;
+}
+#text-boxes
+{
+    position: absolute;
+    top:555px;
+    left: 285px;
+}
+#text
+{
+    position: absolute;
+    bottom: 100px;
+    left:150px;
+    font-size: 25px;
+    color: black;
+    text-align: center;
+}
+#submit-contact
+{
+    position: absolute;
+    top: 670px;
+    left: 260px;
+}
+#submit-btn-contact
+{
+    background-color: #8d66c7;
+    width: 170px;
+    height: 40px;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;   
+    border-radius: 50px;
+    border-color: white;
+}
+#textarea-contact
+{
+    position: absolute;
+    bottom: 10px;
+    left:150px;
+    font-size: 30px;
+    color: black;
+    text-align: center;
+}

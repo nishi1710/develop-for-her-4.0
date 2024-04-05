@@ -1,0 +1,73 @@
+#background-image{
+    background-image: url("learning.png");
+    background-repeat: no-repeat;
+    /* top: 200px; */
+    width: 100%;
+    top: 0px;
+    background-size: cover;
+    background-position: center;
+    height: 640px;
+}
+
+#path{
+    width: 1000px;
+    height: 600px;
+}
+
+#main-image{
+    position: absolute;
+    left: 140px;
+    top: 60px;
+}
+
+#text1{
+    position: absolute;
+    left: 220px;
+    top: 230px;
+}
+#text2{
+    position: absolute;
+    top: 230px;
+    left: 490px;
+}
+
+#text3{
+    position: absolute;
+    top: 230px;
+    left: 770px;
+}
+
+#text4{
+    position: absolute;
+    top: 210px;
+    right: 170px;
+}
+
+#text5{
+    position: absolute;
+    left: 220px;
+    bottom: 80px
+}
+
+#text6{
+    position: absolute;
+    bottom: 55px;
+    left: 490px;
+}
+
+#text7
+{
+    position: absolute;
+    bottom: 80px;
+    left: 760px;
+}
+
+#text8{
+    position: absolute;
+    bottom: 70px;
+    right: 179px;
+}
+
+p #onhover :hover{
+    background-color: black;
+}

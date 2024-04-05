@@ -1,0 +1,121 @@
+#background-login
+{
+    background-image: url("Login.jpg");
+    background-repeat: no-repeat;
+    width: 100%;
+    top: 0px;
+    background-size: cover;
+    background-position:center;
+    position: relative;
+    overflow: auto;
+    overflow-x: hidden;
+    height: 100vh; 
+}
+
+#side-text{
+    position: absolute;
+    left: 200px;
+    top: 80px;
+    color: #4f2d55;
+    font-family:madimi;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+#welcome
+{
+    position: absolute;
+    top:100px;
+    left: 840px;
+    font-size: 30px;
+    color: black;
+    text-align: center;
+}
+#bigbox{
+    position: absolute;
+    right: 50px;
+    height: 530px;
+    width: 450px;
+    border-radius: 30px;
+    background: rgba(229, 195, 244, 0.61);
+    top: 50px;
+}
+#email
+{
+    position: absolute;
+    top: 180px;
+    left:850px;
+    font-size: 30px;
+    color: black;
+    text-align: center;
+    
+}
+#email-box
+{
+    position: absolute;
+    top: 250px;
+    left:850px;
+    height: 100px;
+    font-size: 30px;
+    color: black;
+    text-align: center;
+    font-weight: 100;
+}
+#password
+{
+    position: absolute;
+    top: 300px;
+    left:850px;
+    font-size: 30px;
+    color: black;
+    text-align: center;
+}
+#password-box
+{
+    position: absolute;
+    top:375px;
+    left:850px;
+    font-size: 30px;
+    color: black;
+    text-align: center;
+}
+#submit
+{
+    position: absolute;
+    left: 900px;
+    top: 450px;
+}
+
+#submit-btn-login
+{
+    background-color: #8d66c7;
+    width: 170px;
+    height: 40px;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;   
+    border-radius: 50px;
+    border-color: white;
+}
+#signup
+{
+    position: absolute;
+    top:500px;
+    left:890px;
+    font-size: 15px;
+    color: white;
+    text-align: center;
+}
+
+#signup :hover{
+    color:blue;
+}
+
+.madimi-one-regular {
+    font-family: "Madimi One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  

@@ -1,0 +1,74 @@
+li
+{
+    float:left;
+    display: inline;
+    text-align: center;
+    font-size: 20px;
+}
+
+#bar
+{
+    top: 5px;
+    position: absolute;
+    right: 30px;
+ 
+   
+}
+
+#navigation
+{
+    
+    color: #FFF;
+    text-align: center;
+}
+
+li a
+{
+    
+    display: block;
+    color: black;
+    text-align: center;
+    margin: 0px;
+    padding: 10px 30px; 
+    background-size: cover;
+    color: #000;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    
+}
+
+#logo
+{
+    position: absolute;
+    color: #46265F;
+    font-family: Inter;
+    font-size: 40px;
+    font-style: italic;
+    font-weight: 800;
+    line-height: normal;
+    right: 1040px;
+    bottom: 530px;
+}
+
+li a:hover
+{
+    font-size: 23px;
+}
+
+
+
+
+
+
+
+
+
+#navigation ul
+{
+    position: absolute;
+}
+
+

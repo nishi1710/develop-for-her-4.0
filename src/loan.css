@@ -1,0 +1,116 @@
+.Loan-explanation {
+    font-family: Arial, sans-serif;
+    display: grid;
+    align-items: left; 
+    grid-template-columns: 1fr 1fr ;
+    column-gap: 5px;
+    /* border: 1px solid #ccc;
+    border-radius: 5px; */
+  }
+  
+  .Loan-explanation p {
+    margin: 0;
+    line-height: 1.5;
+    font-size: medium;
+    font-weight: bold;
+  }
+  
+  .Loan-explanation strong {
+    font-weight: bold;
+  }
+  
+  table, th, td {
+    border: 1px solid;
+    
+  }
+  table {
+    border-collapse: collapse;
+  }
+  th, td {
+    padding: 15px;
+    text-align: left;
+  }
+
+  .main{
+    padding-left: 45px;
+    padding-right: 30px;
+  }
+ .calculator {
+    max-width: 300px;
+    margin-left: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    top:600px;
+    right: 30px;
+    position:absolute;
+    background-color: rgb(255, 255, 255);
+  }
+#Q
+{
+  background-color: rgb(246, 215, 246);
+}
+#submit_btn
+{
+    background-color: #502492;
+    width: 100px;
+    height: 40px;
+    color: #FFF;
+    font-family: Inconsolata;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+#submit
+{
+    position: absolute;
+    left:500px;
+    top:1100px;
+}
+  .input-group {
+    margin-bottom: 15px;
+  }
+  
+  
+  
+  input[type="range"] {
+    width: 100%;
+  }
+  
+  select {
+    width: 100%;
+    padding: 5px;
+    border-radius: 5px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #37b3ec;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  #img1{
+    position: relative;
+    top:100px;
+}
+  .result {
+    margin-top: 20px;
+  }
+  #Loanbackground
+  {
+    background-image: url("learning.png");
+    background-repeat: no-repeat;
+    width: 100%;
+    top: 0px;
+    background-size: cover;
+    background-position: center;
+    height: 1200px;
+  }
+  #loanfor
+  {
+    width: 100%;
+    left: 550px;
+  }

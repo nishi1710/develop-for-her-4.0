@@ -1,0 +1,65 @@
+#view-bg{
+    background-image: url("view_bg.jpg");
+    background-repeat: no-repeat;
+    width: 100%;
+    top: 0px;
+    background-size: cover;
+    background-position:center;
+    height: 1000px; 
+}
+#Table
+{
+    background-color: rgba(243, 240, 240.0.2);
+}
+table 
+{
+    margin-top: 25px;
+    margin-left: 450px;
+    border-collapse: collapse;
+}
+  th, td 
+{
+    padding: 25px;
+    text-align: left;
+}
+
+#header-text-title{
+    position: absolute;
+    top: 70px;
+    text-align: center;
+    left: 500px;
+}
+
+#para-text{
+    font-size: 30px;
+}
+
+#enter-email{
+    position: absolute;
+    top: 150px;
+    left: 500px;
+    
+}
+
+#email-view-text{
+    color: black;
+    font-size: 20px;
+}
+
+#email-view-box{
+    position: absolute;
+    top: 175px;
+    left: 670px;
+}
+
+#view-btn{
+    position: absolute;
+    top: 170px;
+    right: 330px;
+}
+
+#value-money{
+    position: absolute;
+    top: 190px;
+    
+}

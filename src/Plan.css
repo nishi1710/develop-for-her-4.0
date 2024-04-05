@@ -1,0 +1,57 @@
+#background
+{
+    background-image: url("Plan.png");
+    background-repeat: no-repeat;
+    width: 100%;
+    top: 0px;
+    background-size: cover;
+    background-position:center;
+    height: 900px; 
+}
+#header
+{
+    position: absolute;
+    top:50px;
+    left:500px;
+    font-size: 30px;
+    color: black;
+    text-align: center;
+
+}
+#back
+{
+    left:30px;
+    position: absolute;
+    font-size: 15px;
+    color: black;
+    text-align: center;
+}
+#basics
+{
+    position: absolute;
+    left:300px;
+    top:300px
+}
+#basictext
+{
+    position: absolute;
+    left:170px;
+    top:400px
+}
+#Intermediate
+{
+    position: absolute;
+    left:1025px;
+    top:300px
+}
+#intermediatetext
+{
+    position: absolute;
+    left:930px;
+    top:400px
+}
+#back
+{
+    text-align:left;
+
+}

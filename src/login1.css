@@ -1,0 +1,28 @@
+#name-login-text{
+    position: absolute;
+    top: 200px;
+    left: 500px;
+}
+
+#email-login-text{
+    position: absolute;
+    left: 500px;
+    top: 250px;
+}
+
+h1{
+    position: absolute;
+    text-align: center;
+    top: 90px;
+    left: 540px;
+}
+
+#submit-form-btn{
+    position: absolute;
+    left: 540px;
+    bottom: 300px;
+}
+
+#login-bg{
+    background-color: rgba(155, 109, 199, 0.678);
+}
